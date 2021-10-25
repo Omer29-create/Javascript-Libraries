@@ -23,6 +23,5 @@ class PowerContact implements Contact {
         return `${this.firstname} ${this.lastname}`
     }
 }
-
 const powerContact = new PowerContact()
 console.log(powerContact.fullName())
