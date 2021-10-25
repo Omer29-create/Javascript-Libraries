@@ -16,3 +16,7 @@ console.log(
     arithmetic(sum, 3, 4),
     arithmetic(product, 3, 4)
 )
+
+
+
+
